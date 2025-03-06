@@ -1,5 +1,4 @@
 # docker-assignment-2
-# Docker Compose: Multi-Service Application
 
 ## Objective
 This project demonstrates the use of Docker Compose to manage a multi-service backend application. As a backend developer, the application is integrated with a PostgreSQL database for persistent storage.
