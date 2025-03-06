@@ -4,9 +4,7 @@
 This project demonstrates the use of Docker Compose to manage a multi-service backend application. As a backend developer, the application is integrated with a PostgreSQL database for persistent storage.
 
 ## Project Structure
-```
-![3](https://github.com/user-attachments/assets/b93d4ccb-f567-4dd4-bc98-02b7a2eae43a)
-```
+![3](https://github.com/user-attachments/assets/abb4740e-a4d6-41d4-ad6d-194d650a2215)
 
 ## Services Used
 - **Application Service:** Runs the backend application.
