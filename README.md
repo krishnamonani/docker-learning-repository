@@ -8,6 +8,6 @@ This repository contains the following folders:
 
 ## Contents of `docker-labs`
 
-* `Lab-1 PDF.pdf` (Replace with the actual filename if different)
-* `Lab-2 PDF.pdf` (Replace with the actual filename if different)
-* `Lab-3 PDF.pdf` (Replace with the actual filename if different)
+* `Lab-1 PDF.pdf` 
+* `Lab-2 PDF.pdf` 
+* `Lab-3 PDF.pdf` 
